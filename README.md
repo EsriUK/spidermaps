@@ -95,7 +95,7 @@ This module does work for mapview and sceneview (2d & 3d).
 Find a bug or want to request a new feature? Please let us know by submitting an issue. Even better, why not fix it yourself! We're open to community updates.
 
 # Future ideas/wish list
-Save to feature layer - An option that lets you save the layer as a new feature layer once the query has been run.
+Save to feature layer - An option that lets you save the generated lines as a new feature layer.
 
 # Licensing
 
